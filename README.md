@@ -1,7 +1,9 @@
 # Bybit-Clone
 
 
-Descreption: I have Created the forntend of Bybit wepsite with HTML & CSS i have uploaded the code and here is the video of tamplate where you can see the style which i have applyed on it.
+# Descreption: 
+
+I have Created the forntend of Bybit wepsite with HTML & CSS i have uploaded the code and here is the video of tamplate where you can see the style which i have applyed on it.
 
 
 
